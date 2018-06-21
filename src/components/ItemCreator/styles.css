@@ -1,0 +1,14 @@
+.itemCreator {
+    margin-top: 20px;
+}
+
+.input {
+    height: 30px;
+    width: 300px;
+}
+
+.button {
+    height: 30px;
+    width: 100px;
+    margin-left: 10px;
+}
