@@ -1,2 +1,1 @@
-
-export const CREATE_TASK = "CREATE TASK";
+export const CREATE_TASK = "CREATE TASK"

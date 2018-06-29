@@ -3,6 +3,7 @@ import Header from '../Header';
 import ItemCreator from '../ItemCreator';
 import './styles.css';
 import '../../assets/css/index.css';
+import ItemList from '../ItemList/ItemList';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
           <Header />
           <div>
             <ItemCreator />
+            <ItemList/>
           </div>
         </div>
       
